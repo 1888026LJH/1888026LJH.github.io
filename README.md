@@ -112,12 +112,11 @@
 
 유사한 점: 스탯, 횟수로 인한 스탯 증가
 
-
 <br><br>
 
 # [대표 이미지]
 
-![그림](./img/그림.png)
+![대표이미지](https://user-images.githubusercontent.com/114119404/191640303-a4dda6ee-5a64-4c1a-8950-d1e6f905134f.jpg)    
 
 <br><br>
 
