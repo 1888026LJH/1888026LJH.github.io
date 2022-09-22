@@ -43,7 +43,7 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/관련이미지.jpg">
+  [![(https://course.pcu.ac.kr/pluginfile.php/649901/mod_forum/post/28255/%EC%96%B4%EC%8C%94%EC%8B%A0%ED%81%AC%EB%A6%AC%EB%93%9C%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4%20%282%29.png)]
 - 동영상
   [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
