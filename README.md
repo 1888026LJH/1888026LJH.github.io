@@ -1,4 +1,4 @@
-# 프로젝트명: Hunter Farmer / 개발자: 
+# 프로젝트명: Hunter Farmer / 개발자: 이재형
 
 # [컨셉]
 
