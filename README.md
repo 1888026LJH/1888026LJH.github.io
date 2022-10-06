@@ -1,4 +1,4 @@
-# 프로젝트명: Hunter Farmer
+# 프로젝트명: Hunter Farmer / 개발자: 
 
 # [컨셉]
 
