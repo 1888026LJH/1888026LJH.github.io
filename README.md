@@ -223,6 +223,30 @@
 
 ## 행동
 
+1) 오브젝트 이름: Player
+
+|현상태|전이상태|전이조건|
+|:---:|:---:|:---:|
+|서있기|Idle||
+|걷기|Walk||
+|뛰기|Run||
+|회피|Evade||
+|공격|Attack||
+||||
+||||
+||||
+
+<br>
+
+2) 오브젝트 이름: Baby(Duck, Pig, Chicken, Goat, Sheep, Cow, WildBoar, Alpaca),
+ Adult(MDuck, WDuck, Pig, WChicken, MChicken, Goat, Sheep,)
+
+
+<br>
+
+3) 오브젝트 이름: Adult Cow, Adult WildBoar, Adult Sheep
+
+
 <br>
 
 ## 상태
@@ -230,7 +254,7 @@
 1) 오브젝트 이름: Player
 
 | <center>현상태</center> | <center>전이상태</center> | <center>전이조건</center> |
-|:---:|:---:|:---|
+|:---:|:---:|:---:|
 |평상시|죽는다|체력이 0이 될 시|
 |평상시|0.5초동안 무적이 된다.|몬스터에게 피격을 당했을 시|
 |무적|평상시|피격 후 0.5초 무적이 지났을 시|
@@ -239,7 +263,8 @@
 
 <br>
 
-2) 오브젝트 이름: Enemy
+2) 오브젝트 이름: Baby(Duck, Pig, Chicken, Goat, Sheep, Cow, WildBoar, Alpaca),
+ Adult(MDuck, WDuck, Pig, WChicken, MChicken, Goat, Sheep,)
 
 |현상태|전이상태|전이조건|
 |:---:|:---:|:---:|
@@ -249,7 +274,7 @@
 
 <br>
 
-3) 오브젝트 이름: Boss
+3) 오브젝트 이름: Adult Cow, Adult WildBoar, Adult Sheep
 
 |현상태|전이상태|전이조건|
 |:---:|:---:|:---:|
