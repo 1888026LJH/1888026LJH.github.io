@@ -229,17 +229,13 @@
 
 1) 오브젝트 이름: Player
 
-|현상태|전이상태|<center>Header3</center>|
-|:---:|:---:|:---|
+|현상태|전이상태|전이조건|
+|:---:|:---:|:---:|
 |평상시|죽는다|체력이 0이 될 시|
 |평상시|0.5초동안 무적이 된다.|몬스터에게 피격을 당했을 시|
 |무적|평상시|피격 후 0.5초 무적이 지났을 시|
-
-|  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
-|:--------|:--------:|--------:|
-|**cell 1x1** | <center>cell 1x2 </center> |*cell 1x3* |
-|**cell 2x1** | <center>cell 2x2 </center> |*celㄷㅈㅂㄷㅈㅂㄷㅈㅂl 2x3* |
-|**cell 3x1** | <center>cell 3x2 </center> |*cell 3x3* |
+|평상시|회피를 하는 동안 무적이 된다.|플레이어가 회피를 했을 시|
+|||
 
 <br>
 
