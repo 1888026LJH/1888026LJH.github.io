@@ -229,7 +229,7 @@
 
 1) 오브젝트 이름: Player
 
-|<center>현상태</center>|<center>전이상태</center>|<center>전이조건</center>|
+| <center>현상태</center> | <center>전이상태</center> | <center>전이조건</center> |
 |:---:|:---:|:---|
 |평상시|죽는다|체력이 0이 될 시|
 |평상시|0.5초동안 무적이 된다.|몬스터에게 피격을 당했을 시|
