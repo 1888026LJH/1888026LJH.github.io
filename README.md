@@ -214,6 +214,41 @@
 
 ## 파라미터(속성)
 
+1) 오브젝트 이름: Baby(Duck, Pig, Chicken, Goat, Sheep, Cow, WildBoar, Alpaca),
+ Adult(MDuck, WDuck, Pig, WChicken, MChicken, Goat, Sheep,)
+
+|속성|영문명칭|설명|
+|:---:|:---:|:---:|
+|체력|Hp|일반 몬스터의 체력|
+|공격력|Atk|일반 몬스터가 플레이어를 공격했을 떄의 수치|
+|공격범위|AttackRange|일반 몬스터의 공격하는 범위|
+|이동속도|MoveSpeed|일반 몬스터의 이동속도|
+|골드|Gold|일반 몬스터를 처치했을 때의 나오는 골드량|
+
+<br>
+
+2) 오브젝트 이름: Adult Cow, Adult WildBoar, Adult Sheep
+
+|속성|영문명칭|설명|
+|:---:|:---:|:---:|
+|체력|Hp|보스 몬스터의 체력|
+|공격력|Atk|보스 몬스터가 플레이어를 공격했을 때의 피해 수치|
+|공격범위|AttackRange|보스 몬스터의 공격하는 범위|
+|이동속도|MoveSpeed|보스 몬스터의 이동속도|
+|골드|Gold|보스 몬스터를 처치했을 때의 나오는 골드량|
+
+<br>
+
+3) 오브젝트 이름: Radish, GreenOnion, Cucumber, Pepper
+
+|속성|영문명칭|설명|
+|:---:|:---:|:---:|
+|공격력|Atk|몬스터를 공격할 때의 입히는 피해 수치|
+|공격범위|AttackRange|몬스터를 공격하는 범위|
+|공격속도|AttackSpeed|몬스터를 공격하는 범위|
+|체력회복수치|Heal|플레이어가 작물을 먹었을 때의 플레이어의 체력 증가 수치|
+|자라나는 시간|GlowTime|작물을 재배하기까지의 걸리는 시간|
+
 <br>
 
 ## 행동
