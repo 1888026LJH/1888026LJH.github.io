@@ -267,19 +267,19 @@
 
 |속성|영문명칭|설명|
 |:---:|:---:|:---:|
-|체력|Hp||
-|기력|Sp||
-|공격력|Atk||
-|이동속도|MoveSpeed||
-|공격범위|AttackRange||
-|공격속도|AttackSpeed||
-|반격기시간|CounterCoolDown||
-|회피시간|EvadeCoolDown||
-|무 스탯|RadishStatus||
-|대파 스탯|GreenOnionStatus||
-|오이 스탯|Cucumber||
-||||
-||||
+|체력|Hp|플레이어의 생명력로 0이 될 시 플레이어는 죽게 된다.|
+|기력|Sp|플레이어의 세태미나로서 공격과 회피를 할 시 줄어든다.|
+|공격력|Atk|몬스터를 공격할 때의 입히는 피해 수치|
+|이동속도|MoveSpeed|플레이어가 이동할 때의 속도|
+|공격범위|AttackRange|몬스터를 공격할 때의 공격하는 범위|
+|공격속도|AttackSpeed|몬스터를 공격할 떄의 공격속도|
+|반격기시간|CounterCoolDown|몬스터의 강한 공격을 받아치는 반격기의 재사용 시간|
+|회피시간|EvadeCoolDown|짧은 순간을 빠르게 이동할 때 쓰는 회피의 재사용 시간|
+|무 스탯|RadishStatus|무를 많이 재배할수록 무의 공격력 크게 증가|
+|대파 스탯|GreenOnionStatus|대파를 많이 재배할수록 대파의 공격력과 공격속도 증가|
+|오이 스탯|Cucumber|오이를 많이 재배할수록 오이의 공격력과 공격속도 증가|
+|고추 스탯|PepperStatus|고추를 많이 재배할수록 고추의 공격속도 크게 증가|
+|작물 스탯|CropsStatus|작물을 많이 재배할수록 체력이 증가|
 
 <br>
 
