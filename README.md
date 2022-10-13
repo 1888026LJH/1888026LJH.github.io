@@ -156,7 +156,7 @@
 
 <br><br>
 
-# [<게임제목> 구성 요소]
+# [Hunter Farmer 구성 요소]
 
 ### 게임 제목: Hunter Farmer
 1. 메커니즘
