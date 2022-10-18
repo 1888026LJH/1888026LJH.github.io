@@ -249,7 +249,7 @@
 
 <br>
 
-3) 오브젝트 이름: Radish, GreenOnion, Cucumber, Pepper
+3) 오브젝트 이름: Radish, GreenOnion, Cucumber, Pepper, Mushroom
 
 |속성|영문명칭|설명|
 |:---:|:---:|:---:|
