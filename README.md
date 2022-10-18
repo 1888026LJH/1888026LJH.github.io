@@ -374,7 +374,7 @@
 ## 시간별 흐름도 flowchart
 
 ## 키보드 이벤트에 대한 흐름도
-![게임프로젝트2 키보드 이벤트에 대한 흐름도](https://user-images.githubusercontent.com/114119404/196493934-fdb9a034-e64b-40e6-82db-b96408bc96fd.png)
+![게임프로젝트2 게임 흐름도](https://user-images.githubusercontent.com/114119404/196498045-068b077d-0aa1-4082-888f-451475ae763b.png)
 
 
 ## 용어 정리
