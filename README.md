@@ -213,6 +213,13 @@
 
 ## 게임 오브젝트 분해
 
+![오브젝트분해](https://user-images.githubusercontent.com/114119404/196509747-0b92bed0-a7f4-4b43-939b-c4dcb2e27c99.png)
+![오브젝트분해2](https://user-images.githubusercontent.com/114119404/196509751-00a2309a-5673-4da8-828b-35d953428d09.png)
+![오브젝트분해3](https://user-images.githubusercontent.com/114119404/196509753-a1a12c9f-c974-478b-a501-60ac2606effb.png)
+![오브젝트분해4](https://user-images.githubusercontent.com/114119404/196509757-e57d95c8-3852-4a3b-bcbb-ff5158c20b7f.png)
+![오브젝트분해5](https://user-images.githubusercontent.com/114119404/196509758-344e4ab5-4d1b-4b1e-9b56-d9614815660b.png)
+![오브젝트분해6](https://user-images.githubusercontent.com/114119404/196509761-dcdda8b5-1683-44e0-a7af-05cce526fcfe.png)
+
 <br>
 
 ## 파라미터(속성)
@@ -370,13 +377,6 @@
 # [개발 요구사항과 흐름도]
 
 ## 요구사항
-![오브젝트분해](https://user-images.githubusercontent.com/114119404/196509747-0b92bed0-a7f4-4b43-939b-c4dcb2e27c99.png)
-![오브젝트분해2](https://user-images.githubusercontent.com/114119404/196509751-00a2309a-5673-4da8-828b-35d953428d09.png)
-![오브젝트분해3](https://user-images.githubusercontent.com/114119404/196509753-a1a12c9f-c974-478b-a501-60ac2606effb.png)
-![오브젝트분해4](https://user-images.githubusercontent.com/114119404/196509757-e57d95c8-3852-4a3b-bcbb-ff5158c20b7f.png)
-![오브젝트분해5](https://user-images.githubusercontent.com/114119404/196509758-344e4ab5-4d1b-4b1e-9b56-d9614815660b.png)
-![오브젝트분해6](https://user-images.githubusercontent.com/114119404/196509761-dcdda8b5-1683-44e0-a7af-05cce526fcfe.png)
-
 
 ## 키보드 이벤트에 대한 흐름도
 ![게임프로젝트2 게임 흐름도](https://user-images.githubusercontent.com/114119404/196498045-068b077d-0aa1-4082-888f-451475ae763b.png)
