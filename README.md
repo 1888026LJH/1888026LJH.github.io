@@ -379,6 +379,9 @@
 ## 요구사항
 
 ## 키보드 이벤트에 대한 흐름도
+
 ![게임프로젝트2 게임 흐름도](https://user-images.githubusercontent.com/114119404/196498045-068b077d-0aa1-4082-888f-451475ae763b.png)
 
 ## 스토리 보드
+
+![스토리텔링](https://user-images.githubusercontent.com/114119404/196515063-f1a1d67b-8e23-4e34-b6c4-cef2d826e435.png)
