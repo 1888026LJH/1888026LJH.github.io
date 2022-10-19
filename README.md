@@ -412,7 +412,7 @@
 
 ## 키보드 이벤트에 대한 흐름도
 
-![게임프로잭트2 게임 흐름도](https://user-images.githubusercontent.com/114119404/196710958-34f8f089-8fe5-40da-bca8-c31e0458e7d1.png)
+![게임프로젝트2 게임 흐름도](https://user-images.githubusercontent.com/114119404/196711425-f2680f68-9c3a-45ec-bd6d-aa8a3feba734.png)
 
 ## 스토리 보드
 
