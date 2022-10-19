@@ -319,7 +319,7 @@
 <br>
 
 2) 오브젝트 이름: Baby(Duck, Pig, Chicken, Goat, Sheep, Cow, WildBoar, Alpaca),
- Adult(MDuck, WDuck, Pig, WChicken, MChicken, Goat, Sheep,)
+ Adult(MDuck, WDuck, Pig, WChicken, MChicken, Goat, Sheep)
 
 |현상태|전이상태|전이조건|
 |:---:|:---:|:---:|
