@@ -449,4 +449,4 @@
 
 ## 스토리 보드
 
-![스토리텔링](https://user-images.githubusercontent.com/114119404/196515063-f1a1d67b-8e23-4e34-b6c4-cef2d826e435.png)
+![게임프로젝트2](https://user-images.githubusercontent.com/114119404/196827008-fdfe783d-cfe4-4481-a9c1-643e56689b54.png)
