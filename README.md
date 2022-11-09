@@ -645,3 +645,8 @@ https://user-images.githubusercontent.com/114119404/199550924-95656d12-45a8-4e4e
 6. 체력은 빨간색 기력은 노란색으로 되어있으며 증가하거나 감소한다.
 
 #### 구현 영상
+https://user-images.githubusercontent.com/114119404/200898788-2caa60ce-434c-4a1d-9cf9-f1f221464101.mp4
+
+https://user-images.githubusercontent.com/114119404/200898797-188f6070-7309-4d8d-836f-7c2acc9a6f58.mp4
+
+https://user-images.githubusercontent.com/114119404/200898807-9fb120a6-13d3-46cb-8526-476710aac19a.mp4
