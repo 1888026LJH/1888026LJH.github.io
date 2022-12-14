@@ -718,6 +718,9 @@
 4. 농장을 아직 따로 만들지 않아 자동 회복을 따로 구현하지 않았기 때문에 구현해야함
 
 #### 구현 사진
+![작물 갯수 차별화와 일반 몬스터 추가와 패턴 추가](https://user-images.githubusercontent.com/114119404/207602078-ecced472-3d32-4496-b83a-4f26585ab250.gif)
+![보스 추가 및 패턴 1개 추가](https://user-images.githubusercontent.com/114119404/207602106-97d06545-7034-4d10-bee1-d083a3c30885.gif)
+
 
 ### 5주차 ( 보스, 일반 몬스터와 패턴관련 구현 )
 #### 몬스터
@@ -766,6 +769,12 @@
 5. 농장맵 추가 및 사냥터와 보스맵 구현    
 6. 농장에서 플레이어의 작물 갯수 최대 값으로 변경    
 7. 농장에서 플레이어의 체력이 계속 증가하게 구현    
+
+#### 구현한 사진
+![보스와 일반 몬스터 포탈로 인한 공격 중지](https://user-images.githubusercontent.com/114119404/207602328-d2ab3f81-9d12-444e-aed2-943ca23bcb93.gif)
+![농장에서 작물 갯수 초기화 및 체력 계속 증가](https://user-images.githubusercontent.com/114119404/207602355-2d4c6b4b-df1c-4d0f-a86b-95157b8189b1.gif)
+![보스몬스터 패턴](https://user-images.githubusercontent.com/114119404/207602377-dd8a842b-a25f-48e2-a908-0b24124c1f83.gif)
+
 
 ### 7주차( 보강주차 )
 
