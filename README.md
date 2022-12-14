@@ -641,7 +641,7 @@
 3. 플레이어는 기력이 계속 차게 되지만 뛰거나 회피를 하는 도중에는 기력이 차지 않는다.
 4. 플레이어 3번 구현 내용 중 공격과 반격을 시전한다는 말이 없었기에 공격과 반격은 구현하지 않았다. (후에 구현할 예정)
 
-#### 구현 영상
+#### 구현 
 ![게임프로젝트9주차구현](https://user-images.githubusercontent.com/114119404/207601229-fcb1d24d-bd46-455e-b749-382fb8f0b476.gif)
 
 ### 3주차 ( UI관련 구현 )
@@ -668,12 +668,10 @@
 5. 플레이어가 최근 방향을 기준으로 공격을 하며 반격기 또한 동일하게 구현한다. (반격기의 애니메이션 문제로 지금은 일반 공격과 똑같은 애니메이션을 사용)
 6. 체력은 빨간색 기력은 노란색으로 되어있으며 증가하거나 감소한다.
 
-#### 구현 영상
-https://user-images.githubusercontent.com/114119404/200898788-2caa60ce-434c-4a1d-9cf9-f1f221464101.mp4
-
-https://user-images.githubusercontent.com/114119404/200898797-188f6070-7309-4d8d-836f-7c2acc9a6f58.mp4
-
-https://user-images.githubusercontent.com/114119404/200898807-9fb120a6-13d3-46cb-8526-476710aac19a.mp4
+#### 구현 사진
+![겜프2](https://user-images.githubusercontent.com/114119404/207601627-ef87e777-859e-4d74-b29b-51031807c56f.gif)
+![겜프3](https://user-images.githubusercontent.com/114119404/207601643-819be75a-58d6-4c10-be08-f6561f4e6616.gif)
+![겜프1](https://user-images.githubusercontent.com/114119404/207601652-7ef9e2e0-0f3f-4b25-946c-39e9d4634687.gif)
 
 
 ### 4주차 ( 일반 몬스터의 패턴과 플레이어관련 구현 )
@@ -719,6 +717,7 @@ https://user-images.githubusercontent.com/114119404/200898807-9fb120a6-13d3-46cb
 3. 일반 몬스터의 추가와 패턴 추가
 4. 농장을 아직 따로 만들지 않아 자동 회복을 따로 구현하지 않았기 때문에 구현해야함
 
+#### 구현 사진
 
 ### 5주차 ( 보스, 일반 몬스터와 패턴관련 구현 )
 #### 몬스터
