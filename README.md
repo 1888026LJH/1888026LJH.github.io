@@ -642,7 +642,7 @@
 4. 플레이어 3번 구현 내용 중 공격과 반격을 시전한다는 말이 없었기에 공격과 반격은 구현하지 않았다. (후에 구현할 예정)
 
 #### 구현 영상
-https://user-images.githubusercontent.com/114119404/199550924-95656d12-45a8-4e4e-8bde-606ba20d3226.mp4
+![게임프로젝트9주차구현](https://user-images.githubusercontent.com/114119404/207601229-fcb1d24d-bd46-455e-b749-382fb8f0b476.gif)
 
 ### 3주차 ( UI관련 구현 )
 
