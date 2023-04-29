@@ -526,7 +526,7 @@
 # [프로토타입 개발작업 일정]
 
 <details>
-<summary> <H1> # 일정 기 </summary>
+<summary> <H1> 일정 열기 </summary>
 
 ### 1주차 ( 일반 몬스터와 플레이어관련 구현 )
 
