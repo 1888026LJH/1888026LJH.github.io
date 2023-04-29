@@ -861,7 +861,7 @@
 <summary> 일정 열기 </summary>    
      
 1~2주차 
-포트폴리오 계획서 및 발표 자료 준비    
+OT 및 포트폴리오 계획서 및 발표 자료 준비    
  
 3주차
 1. 프로토타입 프로젝트 버그 수정
@@ -908,5 +908,55 @@
 4. 플레이어의 작물이 0이 되어도 공격이 되는 버그    
 상황: 해결 못함     
 
+<details>
+<summary> <H4> 1주차 </summary>
+ 
+포트폴리오 OT
+ 
+</details>
+
+ 
+ <details>
+<summary> <H4> 2주차 </summary>
+ 
+포트폴리오 계획서 제작 및 발표
+ 
+</details>
+ 
+  
+<details>
+<summary> <H4> 3주차 </summary>
+프로토타입 프로젝트에서 
+ 
+</details>
+
+<details>
+<summary> <H4> 4주차 </summary>
+
+ 
+</details>
+
+ 
+<details>
+<summary> <H4> 5주차 </summary>
+ 
+
+ 
+</details>
+
+ 
+<details>
+<summary> <H4> 6주차 </summary>
+ 
+
+ 
+</details>
+
+
+<details>
+<summary> <H4> 7주차 </summary>
+
+ 
+</details>
 
  
