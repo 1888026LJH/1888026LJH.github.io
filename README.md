@@ -1,13 +1,5 @@
 # 프로젝트명: Hunter Farmer / 개발자: 이재형
 
-<details>
-<summary>안녕하세요</summary>
- 
-## Hi
-Hello
- 
-</details>
-
 # [ 목차 ]
 ### 1. [컨셉](#컨셉)
 <h4> ● 메인 컨셉 </h4>    
@@ -813,7 +805,8 @@ Hello
 ![보스몬스터 패턴](https://user-images.githubusercontent.com/114119404/207602377-dd8a842b-a25f-48e2-a908-0b24124c1f83.gif)    
 보스의 패턴으로 사진과 같이 공격을 한다.
 
-### 7주차( 보강주차 )
+<details>
+<summary>### 7주차( 보강주차 )</summary>
 
 #### 화면
 > ● 게임화면
@@ -836,4 +829,8 @@ Hello
 
 ![보스 파티클 추가](https://user-images.githubusercontent.com/114119404/207613187-5c4771a7-177b-408f-b7f7-03d8b502890e.gif)    
 보스의 세번째 패턴 사용 중에 플레이어가 보스의 앞에서 카운터 사용시 파티클이 나오게 구현하였다.
+ 
+</details>
+
+
 
