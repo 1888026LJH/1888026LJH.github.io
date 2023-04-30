@@ -929,7 +929,7 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비
 상황: 해결 못함     
 
 <details>
-<H4> 1주차 <summary> 1주차 </summary>    
+<H4> <summary> 1주차 </summary>    
  
 포트폴리오 OT
  
