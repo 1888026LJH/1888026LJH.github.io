@@ -858,7 +858,7 @@
 
 # [포트폴리오 개발작업 일정]
 <details>
-<summary> 일정 열기 </summary>    
+<summary> 일정 열기 </summary>
      
 1~2주차 
 OT 및 포트폴리오 계획서 및 발표 자료 준비    
@@ -916,7 +916,7 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비
 </details>
 
  
- <details>
+<details>
 <summary> <H4> 2주차 </summary>    
  
 포트폴리오 계획서 제작 및 발표
@@ -939,6 +939,7 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비
 <details>
 <summary> <H4> 4주차 </summary>
 
+ 
  
 </details>
 
