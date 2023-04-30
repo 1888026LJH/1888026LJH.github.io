@@ -928,62 +928,35 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비     <br/>
 4. 플레이어의 작물이 0이 되어도 공격이 되는 버그    
 상황: 해결 못함     
 
-<details>
-<summary> <H4>1주차 </summary>    
- 
+#### 1주차  
 포트폴리오 OT <br/> 
- 
-</details>
 
  
-<details>
-<summary> 2주차 </summary>    
+#### 2주차
  
-포트폴리오 계획서 제작 및 발표 <br/> 
+포트폴리오 계획서 제작 및 발표
  
 </details>
  
   
-<details>
-<summary> 3주차 </summary>
+
+#### 3주차
      
 프로토타입 프로젝트에서 코드 수정 및 피드백
 
 피드백 내용 <br/> 
-1. 고추, 오이, 대파, 무에서 고추와 오이를 원거리 무기로 변경함 <br/> 
-2. 물을 뿌리는 에셋이 없어 물통을 키 입력시 나온다음 물 파티클이 아래로 흐르도록 함 <br/> 
-3. 작물이 없을시 사라지고 공격을 못하게 함 <br/> 
+1. 고추, 오이, 대파, 무에서 고추와 오이를 원거리 무기로 변경함
+2. 물을 뿌리는 에셋이 없어 물통을 키 입력시 나온다음 물 파티클이 아래로 흐르도록 함
+3. 작물이 없을시 사라지고 공격을 못하게 함
  
-</details>
-
-<details>
-<summary> 4주차 </summary>
-
+4주차
  
+5주차
  
-</details>
-
+6주차
  
-<details>
-<summary> 5주차 </summary>
+7주차
  
-
- 
-</details>
-
- 
-<details>
-<summary> 6주차 </summary>
- 
-
- 
-</details>
-
-
-<details>
-<summary> 7주차 </summary>
-
- 
-</details>
+8주차
 
  
