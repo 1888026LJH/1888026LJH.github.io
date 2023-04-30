@@ -830,7 +830,7 @@
 
 
 <details>
-<summary> <H4> 7주차( 보강주차 ) </summary>
+<summary> <H4> 7주차( 보강주차 ) </summary>    
 
 #### 화면
 > ● 게임화면
