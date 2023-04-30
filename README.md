@@ -920,7 +920,7 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비
 상황: 해결 못함     
 
 <details>
-<summary> <H4> 1주차 </summary>    
+<summary> 1주차 </summary>    
  
 포트폴리오 OT
  
@@ -928,7 +928,7 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비
 
  
 <details>
-<summary> <H4> 2주차 </summary>    
+<summary> 2주차 </summary>    
  
 포트폴리오 계획서 제작 및 발표
  
@@ -936,7 +936,7 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비
  
   
 <details>
-<summary> <H4> 3주차 </summary>
+<summary> 3주차 </summary>
     
 프로토타입 프로젝트에서 코드 수정 및 피드백
 
@@ -948,7 +948,7 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비
 </details>
 
 <details>
-<summary> <H4> 4주차 </summary>
+<summary> 4주차 </summary>
 
  
  
@@ -956,7 +956,7 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비
 
  
 <details>
-<summary> <H4> 5주차 </summary>
+<summary> 5주차 </summary>
  
 
  
@@ -964,7 +964,7 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비
 
  
 <details>
-<summary> <H4> 6주차 </summary>
+<summary> 6주차 </summary>
  
 
  
@@ -972,7 +972,7 @@ OT 및 포트폴리오 계획서 및 발표 자료 준비
 
 
 <details>
-<summary> <H4> 7주차 </summary>
+<summary> 7주차 </summary>
 
  
 </details>
