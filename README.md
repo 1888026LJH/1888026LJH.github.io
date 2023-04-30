@@ -636,7 +636,7 @@
 </details>
     
 <details>
-<summary> <H4> 2주차 </summary>
+<summary> 2주차 </summary>
 
 #### 몬스터
 > ● 일반 몬스터
@@ -664,7 +664,7 @@
     
  
 <details>
-<summary> <H4> 3주차 ( UI관련 구현 ) </summary>
+<summary> 3주차 ( UI관련 구현 ) </summary>
 
 #### 화면
 > ● 시작화면       
@@ -703,7 +703,7 @@
     
  
 <details>
-<summary> <H4> 4주차 ( 일반 몬스터의 패턴과 플레이어관련 구현 ) </summary>
+<summary> 4주차 ( 일반 몬스터의 패턴과 플레이어관련 구현 ) </summary>
 
 #### 몬스터
 > ● 일반몬스터    
@@ -757,7 +757,7 @@
     
  
 <details>
-<summary> <H4> 5주차 ( 보스, 일반 몬스터와 패턴관련 구현 ) </summary>
+<summary> 5주차 ( 보스, 일반 몬스터와 패턴관련 구현 ) </summary>
  
 #### 몬스터
 > ● 일반 몬스터    
@@ -797,7 +797,7 @@
     
  
 <details>
-<summary> <H4> 6주차 </summary>
+<summary> 6주차 </summary>
  
  #### 화면
 > ● 게임화면
@@ -835,7 +835,7 @@
     
 
 <details>
-<summary> <H4> 7주차( 보강주차 ) </summary>    
+<summary> 7주차( 보강주차 ) </summary>    
 
 #### 화면
 > ● 게임화면
@@ -862,7 +862,8 @@
 </details>
     
  
-# [포트폴리오 개발작업 일정]
+# [포트폴리오 개발작업 일정]    
+
 <details>
 <summary> 일정 열기 </summary>
      
